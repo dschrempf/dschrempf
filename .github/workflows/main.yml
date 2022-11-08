@@ -28,6 +28,7 @@ jobs:
           user: dschrempf
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
           config_timezone: Europe/Vienna
           plugin_followup: yes
           plugin_followup_archived: yes
