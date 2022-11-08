@@ -30,6 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           config_timezone: Europe/Vienna
+          config_display: large
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
